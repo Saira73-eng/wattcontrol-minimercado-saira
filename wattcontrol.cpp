@@ -1124,3 +1124,5 @@ int main() {
 
     return 0;
 }
+
+// Fin del archivo wattcontrol.cpp
